@@ -127,6 +127,12 @@ The dashboard supports multiple analytical perspectives including **executive su
 ![Dashboard 3](dashboard%203.png)
 ![Dashboard 4](dashboard%204.png)
 
+## Project Documentation
+
+The full project documentation can be accessed here:
+
+[Academic Data Warehouse Project Report](Academic_Data_Warehouse_Report.pdf)
+
 ---
 
 ## Project Repository
