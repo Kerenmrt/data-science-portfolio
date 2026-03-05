@@ -138,4 +138,7 @@ Data Science Student – Institut Teknologi Sumatera (ITERA)
 
 ## Dashboard Preview
 
-![Academic Dashboard](dashboard.png)
+![Dashboard 1](dashboard%201.png)
+![Dashboard 2](dashboard%202.png)
+![Dashboard 3](dashboard%203.png)
+![Dashboard 4](dashboard%204.png)
