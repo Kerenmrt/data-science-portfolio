@@ -65,7 +65,7 @@ This indicates that approximately 50% of the variation in life expectancy can be
 
 ## Infographic Summary
 
-![Infographic](infographic-life-expectancy.jpg)
+![Infographic](infographic-life-expectancy.jfif)
 
 ## Project Report
 
