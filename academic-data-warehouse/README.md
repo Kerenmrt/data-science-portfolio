@@ -142,3 +142,19 @@ Data Science Student – Institut Teknologi Sumatera (ITERA)
 ![Dashboard 2](dashboard%202.png)
 ![Dashboard 3](dashboard%203.png)
 ![Dashboard 4](dashboard%204.png)
+
+## Data Warehouse Architecture
+
+The system follows a typical data warehouse pipeline where academic operational data is extracted, transformed, and loaded into a centralized warehouse designed using a star schema.
+
+Data Flow:
+
+Data Source  
+↓  
+Staging Layer  
+↓  
+ETL Process  
+↓  
+Data Warehouse (Star Schema)  
+↓  
+Power BI Dashboard
