@@ -135,3 +135,7 @@ The dashboard supports multiple analytical perspectives including **executive su
 
 Keren Marito Lumban Gaol
 Data Science Student – Institut Teknologi Sumatera (ITERA)
+
+## Dashboard Preview
+
+![Academic Dashboard](dashboard.png)
