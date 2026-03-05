@@ -78,6 +78,12 @@ The final output of this project is presented in the form of an **analytical inf
 
 ![Infographic](infographic.png)
 
+## Project Documentation
+
+The full analytical report of this project can be accessed below:
+
+[Data Wrangling PNS Analysis Report](Data_Wrangling_PNS_Report.pdf)
+
 ---
 
 ## Author
