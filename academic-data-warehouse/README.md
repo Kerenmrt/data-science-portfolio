@@ -129,6 +129,13 @@ The dashboard supports multiple analytical perspectives including **executive su
 
 ---
 
+## Project Repository
+
+The full implementation of this project, including the ETL process, SQL scripts, and data warehouse development, can be accessed in the following repository:
+
+Project Repository:  
+https://github.com/sains-data/Kelompok18_Akademik
+
 ## Technologies Used
 
 - SQL Server
